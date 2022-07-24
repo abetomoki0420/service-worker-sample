@@ -1,0 +1,15 @@
+{
+  "name": "service-worker-demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "serve": "http-server -S -C localhost.pem -K localhost-key.pem"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
