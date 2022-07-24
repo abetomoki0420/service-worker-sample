@@ -10,6 +10,7 @@ mkcert localhost
 
 And run `http-server`  on https setting.
 ```
+npm install
 npm run serve
 ```
 
